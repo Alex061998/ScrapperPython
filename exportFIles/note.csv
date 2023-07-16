@@ -1,0 +1,30 @@
+"Matière Intervenant Coef ECTS CC1 CC2 Exam
+Anglais professionnel Mme LAFAYE 200 200 11 9
+S1  Algorithmique avancée  listes tris et arbres M RAYNAL 300 300 20 14 65
+S1  C et algorithmes challenge M BRAY 300 300 15 15
+S1  Conception de bases de données relationnelles M LEBCIR 200 200 135 12
+S1  Design thinking Mme VILLARET 200 200 7 16 1175
+S1  elearning foad  langues  culture dentreprise Mme PLATON 100 100 0
+S1  Ia M JUMELLE 300 300 10 45
+S1  Langage Java avancé  POO lambda flux FXML M ERNOT 300 300 13 11
+S1  open Mme PLATON 200 200 9
+S1  Outils de développement et conteneurisation M DOMINGUES 200 200 10 12 155
+S1  Projet Annuel M SANANES NC NC
+S1  requêtage et optimisation sql M HU 200 200 105
+S1  Tests Unitaires M SOUPHRON 200 200 13 65
+S1  Théorie des langages et compilation M BAUDOIN 300 300 13 6"
+"
+"
+"Matière Intervenant Coef ECTS CC1 CC2 Exam
+S2  agilité et scrum M COAT 200 200 10
+S2  algorithmique avancée  listes tris et arbres M RAYNAL 200 200 17
+S2  anglais professionnel Mme LAFAYE 200 200
+S2  api avec nodejs M BRIATTE 200 200
+S2  bases de données nosql M DELON 200 200
+S2  développement frontend avec angular M BUSO 200 200 14 16
+S2  linux orienté développeurs M KIFFER 200 200
+S2  mission en entreprise Mme CRAMAUSSEL 100 100
+S2  open vie associative Mme RAGONNET 200 200
+S2  projet annuel M SANANES 300 300
+S2  scripting python M RAYNAL 200 200
+S2  tests logiciels M NYANTCHOU NOUBISSIE 200 200"
