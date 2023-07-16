@@ -1,0 +1,30 @@
+Matière Intervenant Coef. ECTS CC1 CC2 Exam
+Anglais professionnel Mme LAFAYE 2.00 2.00 11 9
+S1 - Algorithmique avancée : listes, tris et arbres M. RAYNAL 3.00 3.00 20 14 6,5
+S1 - C et algorithmes (challenge) M. BRAY 3.00 3.00 15 15
+S1 - Conception de bases de données relationnelles M. LEBCIR 2.00 2.00 13,5 12
+S1 - Design thinking Mme VILLARET 2.00 2.00 7 16 11,75
+S1 - e-learning (foad) : langues & culture d'entreprise Mme PLATON 1.00 1.00 0
+S1 - Ia M. JUMELLE 3.00 3.00 10 4,5
+S1 - Langage Java avancé : POO, lambda, flux, FXML M. ERNOT 3.00 3.00 13 11
+S1 - open Mme PLATON 2.00 2.00 9
+S1 - Outils de développement et conteneurisation M. DOMINGUES 2.00 2.00 10 12 15,5
+S1 - Projet Annuel M. SANANES N.C N.C
+S1 - requêtage et optimisation sql M. HU 2.00 2.00 10,5
+S1 - Tests Unitaires M. SOUPHRON 2.00 2.00 13 6,5
+S1 - Théorie des langages et compilation M. BAUDOIN 3.00 3.00 13 6
+
+
+Matière Intervenant Coef. ECTS CC1 CC2 Exam
+S2 - agilité et scrum M. COAT 2.00 2.00 10
+S2 - algorithmique avancée : listes, tris et arbres M. RAYNAL 2.00 2.00 17
+S2 - anglais professionnel Mme LAFAYE 2.00 2.00
+S2 - api avec nodejs M. BRIATTE 2.00 2.00
+S2 - bases de données nosql M. DELON 2.00 2.00
+S2 - développement frontend avec angular M. BUSO 2.00 2.00 14 16
+S2 - linux orienté développeurs M. KIFFER 2.00 2.00
+S2 - mission en entreprise Mme CRAMAUSSEL 1.00 1.00
+S2 - open vie associative Mme RAGONNET 2.00 2.00
+S2 - projet annuel M. SANANES 3.00 3.00
+S2 - scripting python M. RAYNAL 2.00 2.00
+S2 - tests logiciels M. NYANTCHOU NOUBISSIE 2.00 2.00
