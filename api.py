@@ -17,13 +17,13 @@ app = FastAPI()
 
 @app.get("/grades")
 def grades():
-    with open("exportFIles/note.txt", "r") as file:
+    with open("exportFIles/note.txt", "r", encoding="utf-8") as file:
         return file.readlines()
 
 
 @app.get("/grades/{matter}")
 def grades_by_matter(matter):
-    with open("exportFIles/note.txt", "r") as file:
+    with open("exportFIles/note.txt", "r", encoding="utf-8") as file:
         for line in file.readlines():
             if matter in line:
                 values = line[line.find(".00") + 9:line.find("\n")]
@@ -74,7 +74,14 @@ def students():
     with open("exportFIles/trobiEleve3al.txt", "r") as file:
         return file.readlines()
 
+
 @app.get("/teachers")
 def teachers():
     with open("exportFIles/trobiTeachers.txt", "r") as file:
+        return file.readlines()
+
+
+@app.get("/planning")
+def planning():
+    with open("exportFIles/Planing.txt", "r") as file:
         return file.readlines()
