@@ -67,3 +67,14 @@ def gradesBySemester(semester):
                         matter_values += average
                         count += 1
         return {"average": round(matter_values / count, 2) if count != 0 else 0.0}
+
+
+@app.get("/students")
+def students():
+    with open("exportFIles/trobiEleve3al.txt", "r") as file:
+        return file.readlines()
+
+@app.get("/teachers")
+def teachers():
+    with open("exportFIles/trobiTeachers.txt", "r") as file:
+        return file.readlines()

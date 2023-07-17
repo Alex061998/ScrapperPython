@@ -353,6 +353,7 @@ if __name__ == '__main__':
     username = 'arasiah'
     password = '5hdMVY3Q'
     login(username, password, driver)
+
     # scope_Teachers(driver)
     scrape_emploi(driver)
     scope_Trobinoscoupe_Etudiant(driver)
