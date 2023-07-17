@@ -4,6 +4,7 @@ import os
 import string
 import time
 
+import uvicorn as uvicorn
 from selenium import webdriver
 import webbrowser
 
@@ -15,6 +16,8 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from urllib3.filepost import writer
+
+from api import app
 
 
 def login(username, password, driver):
@@ -354,4 +357,5 @@ if __name__ == '__main__':
     scrape_emploi(driver)
     driver.quit()
 
+    uvicorn.run(app, host="0.0.0.0", port=8000)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
