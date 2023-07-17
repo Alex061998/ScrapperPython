@@ -355,6 +355,7 @@ if __name__ == '__main__':
     login(username, password, driver)
     # scope_Teachers(driver)
     scrape_emploi(driver)
+    scope_Trobinoscoupe_Etudiant(driver)
     driver.quit()
 
     uvicorn.run(app, host="0.0.0.0", port=8000)
